@@ -1,5 +1,5 @@
 # 💫 About Me:
-As an undergraduate student in my third year of pursuing a Bachelor's degree in Information Technology.<br>My academic journey has been a thrilling exploration of the expansive technological landscape.<br> With an ardent interest in comprehending and utilizing cutting-edge IT solutions.<br>I have cultivated a strong foundation in various domains relevant to this field, including Web development , network security and competitive programming(C++).
+As an undergraduate student in my Fourth year of pursuing a Bachelor's degree in Information Technology from Indian Institute of information Technology, Allahabad.<br>My academic journey has been a thrilling exploration of the expansive technological landscape.<br> With an ardent interest in comprehending and utilizing cutting-edge IT solutions.<br>I have cultivated a strong foundation in various domains relevant to this field, including Web development , network security and competitive programming(C++).
 
 
 ## 🌐 Socials:
